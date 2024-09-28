@@ -22,6 +22,15 @@
 | 5 | Minor 7th |
 | 5.5 | Major 7th |
 | 6 | 8th |
+| 6.5 | Minor 9th |
+| 7 | Major 9th |
+| 7.5 | ? |
+| 8 | ? |
+| 8.5 | 11th |
+| 9 | ? |
+| 9.5 | ? | 
+| 10 | Minor 13th |
+| 10.5 | Major 13th |
 
 | Type | Names  | 1 | 1->2 | 2->3 | 3->4 |
 | - | - | - | - | - | - |
@@ -74,3 +83,35 @@
 | Bb | Gm | 0 | 2 |
 | F | Dm | 0 | 1 |
 | C | Am | 0 | 0 |
+
+## Chord Extensions
+
+| Name | Condition |
+| - | - |
+| 6 | If no 7th then 13 -> 6 |
+| sus4 | If no 3rd then 11 -> 4 |
+| sus2 | If no 3rd then 9 -> 2 |
+
+### Major
+
+| Degree | 9 | 11 | 13 |
+| - | - | - | - |
+| I | 9 | 11 | 13 |
+| ii | 9 | 11 | 13 |
+| iii | b9 | 11 | b13 |
+| IV | 9 | #11 | 13 |
+| V | 9 | 11 | 13 |
+| vi | 9 | 11 | b13 |
+| vii | b9 | 11 | b13 |
+
+### Minor
+
+| Degree | 9 | 11 | 13 |
+| - | - | - | - |
+| I | 9 | 11 | b13 |
+| ii | b9 | 11 | b13 |
+| iii | 9 | 11 | 13 |
+| IV | 9 | 11 | 13 |
+| V | b9 | 11 | b13 |
+| vi | 9 | #11 | 13 |
+| vii | 9 | 11 | 13 |
