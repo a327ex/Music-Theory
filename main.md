@@ -115,3 +115,36 @@
 | V | b9 | 11 | b13 |
 | vi | 9 | #11 | 13 |
 | vii | 9 | 11 | 13 |
+
+## Harmonic Modes
+
+| Type | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| - | - | - | - | - | - | - | - |
+| Ionian | Tonic | Major 2nd | Major 3rd | 4th | 5th | Major 6th | Major 7th |
+| Dorian | Tonic | Major 2nd | Minor 3rd | 4th | 5th | Major 6th | Minor 7th |
+| Phrygian | Tonic | Minor 2nd | Minor 3rd | 4th | 5th | Minor 6th | Minor 7th |
+| Lydian | Tonic | Major 2nd | Major 3rd | Augmented 4th | 5th | Major 6th | Major 7th |
+| Mixolydian | Tonic | Major 2nd | Major 3rd | 4th | 5th | Major 6th | Minor 7th |
+| Aolian | Tonic | Major 2nd | Minor 3rd | 4th | 5th | Minor 6th | Minor 7th |
+| Locrian | Tonic | Minor 2nd | Minor 3rd | 4th | Diminished 5th | Minor 6th | Minor 7th |
+
+| Type | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| - | - | - | - | - | - | - | - |
+| Lydian | Tonic | Major 2nd | Major 3rd | **Augmented 4th** | 5th | Major 6th | Major 7th |
+| Ionian | Tonic | Major 2nd | Major 3rd | 4th | 5th | Major 6th | **Major 7th** |
+| Mixolydian | Tonic | Major 2nd | Major 3rd | 4th | 5th | Major 6th | **Minor 7th** |
+| Dorian | Tonic | Major 2nd | Minor 3rd | 4th | 5th | **Major 6th** | Minor 7th |
+| Aeolian | Tonic | Major 2nd | Minor 3rd | 4th | 5th | **Minor 6th** | Minor 7th |
+| Phrygian | Tonic | **Minor 2nd** | Minor 3rd | 4th | 5th | Minor 6th | Minor 7th |
+| Locrian | Tonic | Minor 2nd | Minor 3rd | 4th | **Diminished 5th** | Minor 6th | Minor 7th |
+
+| Type | 3rd | 5th | Core Chord |
+| - | - | - | - |
+| Ionian | Major 3rd | Major 7th | M7 |
+| Dorian | Minor 3rd | Major 6th | m6 |
+| Phrygian | Minor 3rd | Minor 2nd | m(b9) |
+| Lydian | Major 3rd | Augmented 4th | #11 |
+| Mixolydian | Major 3rd | Minor 7th | 7 |
+| Aeolian | Minor 3rd | Minor 6th | m(b6) |
+| Locrian | Minor 3rd | Diminished 5th | dim |
+
