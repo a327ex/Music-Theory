@@ -5,6 +5,7 @@
 * [「.」(Jellyfish/海月) | Piano Arrangement](https://www.youtube.com/watch?v=TN-mAuwojYQ)
 * [Hookpad | . (sm21783669, “Jellyfish”) / ころんば4号3 (Koronba 4-gou Ver. 3) & Utane Uta (唄音ウタ)](https://www.youtube.com/watch?v=sObyLzB2jGI)
 * [.(くらげ)【ピアノ譜アレンジ】](https://www.youtube.com/watch?v=jYcAYkx1l44)
+* [【再アップ】 クラゲのコード進行.mp4　※固定コメ・概要欄の確認を推奨](https://www.youtube.com/watch?v=tl2GI2aX5EI)
 
 ## Bars 1-7
 
