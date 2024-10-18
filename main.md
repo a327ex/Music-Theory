@@ -129,12 +129,12 @@
 | Aeolian 4    | m7 | m7b5 | bM7 | m7 | m7 | bM7 | b7 | |
 | Locrian 3    | dim | bM | bm | m | bM | bM | bm | |
 | Locrian 4    | m7b5 | bM7 | bm7 | m7 | bM7 | b7 | bm7 | |
-| Natural Minor 3 | m | dim | M | m | m | M | M | |
-| Natural Minor 4 | m7 | m7b5 | M7 | m7 | m7 | M7 | 7 | |
-| Harmonic Minor 3 | m | dim | M#5 | m | M | M | #dim | |
-| Harmonic Minor 4 | mM7 | m7b5 | M7#5 | m7 | 7 | M7 | #dim | |
-| Functional Minor 3 | m | dim | M | m | M | M | dim | |
-| Functional Minor 4 | m7 | m7b5 | M7 | m7 | 7 | M7 | dim | 5th + 7th from H. Minor 4 |
+| Natural Minor 3 | m | dim | bM | m | m | bM | bM | |
+| Natural Minor 4 | m7 | m7b5 | bM7 | m7 | m7 | bM7 | b7 | |
+| Harmonic Minor 3 | m | dim | bM#5 | m | M | bM | #dim | |
+| Harmonic Minor 4 | mM7 | m7b5 | bM7#5 | m7 | 7 | bM7 | #dim | |
+| Functional Minor 3 | m | dim | bM | m | M | bM | #dim | |
+| Functional Minor 4 | m7 | m7b5 | bM7 | m7 | 7 | bM7 | #dim | 5th + 7th from H. Minor 4 |
 
 ## Circle of Fifths
 

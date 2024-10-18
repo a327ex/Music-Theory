@@ -1,5 +1,0 @@
-* [Koronba - Lamprey Hole](https://www.youtube.com/watch?v=C9PFVo1FEwU)
-* [Koronba - Lamprey Hole (CC)](https://www.youtube.com/watch?v=2RmhTbVinV4)
-* [「ヤツメ穴」(Lamprey Hole) | Piano Arrangement](https://www.youtube.com/watch?v=exXIlaVhOJs)
-* [【REVISED】Lamprey Hole piano version](https://www.youtube.com/watch?v=hM3eBWCRndY)
-* [Lamprey Hole | sheet music](https://www.youtube.com/watch?v=tSMnQ0Hz_9Q)
