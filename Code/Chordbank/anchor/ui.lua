@@ -10,6 +10,8 @@ ui = class:class_new()
   Creates a grid centered on position x, y, with size w, h, and with i, j columns and rows, respectively.
   The size of each cell in the grid is calculated automatically, and the function returns a grid object (see grid.lua file).
   Inside each cell, there's a rectangle object with the properties .x, .y (rectangle center), .x1, .y1 (rectangle left-top), .x2, .y2 (rectangle right-bottom) and .w, .h (rectangle size).
+  Example:
+    TODO
 --]]
 function ui:ui_grid(x, y, w, h, i, j)
   local grid = object():grid(i, j)
@@ -54,6 +56,44 @@ function ui:ui_grid_lt(x, y, w, h, i, j)
     grid:grid_set(k, l, v)
   end
   return grid
+end
+
+--[[
+  Creates a text button centered on position x, y, with size w, h, that when clicked will call the given click action.
+  The button is returned as a normal engine object with properties .x, .y (button's center), .x1, .y1 (button's left-top), .x2, .y2 (button's right-bottom) and .w, .h (button's size).
+  The user is responsible for taking the returned button object and attaching an action to it so that it is drawn.
+--]]
+function ui:ui_button(x, y, w, h, click_action)
+  return object():build(function(self)
+    self.x, self.y = x, y
+    self.w, self.h = w, h
+    self.x1, self.y1 = self.x - self.w/2, self.y - self.h/2
+    self.x2, self.y2 = self.x + self.w/2, self.y + self.h/2
+    self:mouse_hover()
+    self.click_action = click_action
+  end):action(function(self, dt)
+    if self.mouse_active and an:is_pressed('1') then
+      self:click_action()
+    end
+  end)
+end
+
+--[[
+  Same as ui_button except x, y are the top-left positions of the grid instead of its center.
+--]]
+function ui:ui_button_lt(x, y, w, h, click_action)
+  return object():build(function(self)
+    self.x, self.y = x + w/2, y + h/2
+    self.w, self.h = w, h
+    self.x1, self.y1 = self.x, self.y
+    self.x2, self.y2 = self.x + self.w, self.y + self.h
+    self:mouse_hover()
+    self.click_action = click_action
+  end):action(function(self, dt)
+    if self.mouse_active and an:is_pressed('1') then
+      self:click_action()
+    end
+  end)
 end
 
 

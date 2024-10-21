@@ -2,11 +2,13 @@
 utf8 = require 'anchor.external.utf8'
 profile = require 'anchor.external.profile'
 sort = require 'anchor.external.sort'
+mlib = require 'anchor.external.mlib'
 
 -- Require all modules.
 -- Each module (except for the first 4) is a mixin, and all mixins are added to the "object" class, which is the only class the engine defines.
 -- This addition happens via anchor/class.lua's "class_add" function.
 require 'anchor.array'
+require 'anchor.collision'
 require 'anchor.math'
 require 'anchor.string'
 require 'anchor.class'
@@ -17,6 +19,7 @@ require 'anchor.color'
 require 'anchor.grid'
 require 'anchor.input'
 require 'anchor.layer'
+require 'anchor.mouse_hover'
 require 'anchor.music_player'
 require 'anchor.physics_world'
 require 'anchor.random'
