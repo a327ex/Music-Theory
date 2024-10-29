@@ -59,6 +59,7 @@
 | Dominant 9th | 9 | 0 | 2 | 1.5 | 1.5 | 2 | | | 
 | Minor 9th | m9 | 0 | 1.5 | 2 | 1.5 | 2 | | |
 | Major 9th | maj9 | 0 | 2 | 1.5 | 2 | 1.5 | | | 
+| Minor Major 9th | mmaj9, mM9, m9M | 0 | 1.5 | 2 | 2 | 1.5 | | | 
 | Dominant Minor 9th | M7b9, 7b9, 7-9 | 0 | 2 | 1.5 | 1.5 | 1.5 | | |
 | Dominant 7th sharp 9th | 7#9, 7+9 | 0 | 2 | 1.5 | 1.5 | 2.5 | | |
 | 11th | 11 | 0 | 2 | 1.5 | 1.5 | 2 | 1.5 | |
