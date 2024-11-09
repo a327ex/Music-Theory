@@ -31,7 +31,7 @@ These descending chromatic lines that Koronba does often have at least one note 
 
 | Bar | Chords | Number |
 | --- | --- | --- |
-| 5 | GbM7 | VI7 |
+| 5 | GbM7 | VIM7 |
 | 6 | F7 | V7/i |
 | 7 | Bbm, Gbm7, Fm7, Ab/Bb | i, vi7?, v7, VII/i |
 | 8 | Em7, Am7, D, D7 | vi7, ii7, V, V7 |
@@ -51,10 +51,10 @@ so maybe writing it as just V7 is more correct?
 
 | Bar | Chords | Number |
 | --- | --- | --- |
-| 9 | GM7, F#7 | VI7, V7/i |
+| 9 | GM7, F#7 | VIM7, V7/i |
 | 10 | Bm7, G#m7b5 | i7, vim7b5 (dorian) |
 | 11 | Em7, A7 | iv7, VII7 |
-| 12 | DM7, Bm7 | III7, i7 |
+| 12 | DM7, Bm7 | IIIM7, i7 |
 
 All chords here are in B minor's harmonic field, with the exception of G#m7b5, which is borrowed from the B's Dorian mode.
 F#7 acts as a dominant that resolves to the tonic (Bm7), thus it is written as V7/i. More generally, on the first 3 bars there's a pattern where we have a stable and then an unstable chord.
@@ -71,7 +71,30 @@ the story can be told in an interesting way that keeps the listener paying atten
 | Bar | Chords | Number |
 | --- | --- | --- |
 | 13 | GM7, F#7 | VI7, V7/i |
-| 14 | F#m7, F7, EM7, C#m/E | |
-| 15 | D#m7b5, G#7 | |
+| 14 | F#m7, F7, EM7, C#m/E | v7, bV7, IVM7, ii/IV? |
+| 15 | D#m7b5, G#7 | iim7b5, V7/i |
 | 16 | C#m7, Cm7, Bm7, E/A#, C#m7 | |
+
+The first two chords are the same as in the previous bars, and then we have a sequence of a lot of chords in bar 14.
+We start from F#7 in bar 13, and end in C#m/E in bar 14, going through a chromatic walk down in between.
+From F#7 to F#m7 we keep all notes the same except A, and also F#m7 (v7) is in B minor's harmonic field.
+
+Next we go from F#m7 to F7, which is not in B's harmonic field.
+The logic of where it comes from looks at the next chord, EM7, and notes that F7 is a tritone substitution of B7, which would be EM7's dominant chord.
+B7 (B, D#, F#, A) has a D# + A tritone, which is kept, and then we raise EM7's base note (E) by a semitone, to get F + D# + A.
+And then we need this to be a dominant chord with a minor seventh, so we get F + A + C + D#, which is F7.
+F7 is written as bV7 because F#7 is in B's harmonic field, and so we want to point to the fact that it is a semitone lower.
+
+Next we have EM7, which is the 4th chord in B's ionian mode. It's common for songs to borrow chords freely between their major and minor modes, and this is an instance of that.
+EM7 would thus be written as IVM7. And finally we get to C#m/E, which is in B's harmonic field, but it is also borrowed from the Ionian mode, and I believe it should be written as ii/IV?
+
+In bar 15 we have two unstable/tense chords, as this bar is the preparation for the final chromatic walk down that ends this verse entirely.
+This also marks a key shift from B minor to C# minor, as both the chords and the melody start making more sense if analyzed from that key.
+The first chord, D#m7b5, is in C# minor's harmonic field, and thus would be written as iim7b5.
+The second chord, G#7, is also in C# minor's harmonic field, and would thus be written as V7/i, because it acts as the dominant chord that resolves to the next one, C#m7.
+
+And here starts the final chromatic walk down for the verse, that starts with C#m7~
+
+
+
 
