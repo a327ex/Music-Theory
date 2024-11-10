@@ -67,13 +67,13 @@ This play on stability and instability creates a sense of moving the song forwar
 the story can be told in an interesting way that keeps the listener paying attention. Only when this pattern is broken in bar 12 do we get a break from this sentence in the story (and start the next).
 
 ### Bars 13-16
-
+,
 | Bar | Chords | Number |
 | --- | --- | --- |
 | 13 | GM7, F#7 | VI7, V7/i |
 | 14 | F#m7, F7, EM7, C#m/E | v7, bV7, IVM7, ii/IV? |
 | 15 | D#m7b5, G#7 | iim7b5, V7/i |
-| 16 | C#m7, Cm7, Bm7, E/A#, C#m7 | |
+| 16 | C#m7, Cm7, Bm7, E/F#, C#m7 | i7, #vii7 (lydian), vii7 (phrygian), III/IV, i7, |
 
 The first two chords are the same as in the previous bars, and then we have a sequence of a lot of chords in bar 14.
 We start from F#7 in bar 13, and end in C#m/E in bar 14, going through a chromatic walk down in between.
@@ -93,8 +93,20 @@ This also marks a key shift from B minor to C# minor, as both the chords and the
 The first chord, D#m7b5, is in C# minor's harmonic field, and thus would be written as iim7b5.
 The second chord, G#7, is also in C# minor's harmonic field, and would thus be written as V7/i, because it acts as the dominant chord that resolves to the next one, C#m7.
 
-And here starts the final chromatic walk down for the verse, that starts with C#m7~
+And here starts the final chromatic walk down for the verse, that starts with C#m7, which is in C#'s harmonic field, and thus would be written as i7.
+Next we have Cm7, which is borrowed from C#'s Lydian mode as B#m7, and thus would be written as vii7, although, because the seventh note of C# minor is B, we want to write #vii7.
+Next there's Bm7, which is borrowed from C#'s Phrygian mode, and thus would be written as vii7.
+Then there's E/F#, which is in C# minor's harmonic field, and so we can write it as III/IV?
+And finally we end it back with C#m7, and the starting chord in the next bar is F#m7. C#m7 is the fifth chord in F#, and thus it would be acting as a dominant chord for F#m7 if both weren't minor.
 
+### Melody
 
+The final C#m7 in bar 16 acts as sort of a stepping stone to the phrase that starts in the next bar. The melodies for the Koronba genre have a folklore-ish feel to it, and it was pointed out to me
+that this is kinda of like the sound of the pentatonic scale. Which kind of tracks, as the pentatonic B minor scale is composed of B, D, E, F# and A. The melody that starts in bar 9 and ends in bar 16
+uses all notes of the B minor scale except G, or, it uses all notes of the pentatonic B minor scale, with the addition of C#.
 
-
+In bar 9 there's a C# used with a tense chord (F#7), in bar 11 there's another C# used with a tense chord (A7). 
+In bar 12 there's a C# that's used as a stepping stone for the next part of the phrase, and then in bar 13 there's a continuation of that use as yet another stepping stone for the rest of the phrase.
+Then in bar 15 we shift keys from B minor to C# minor. C# minor's pentatonic scale is C#, E, F#, G#, B. If we were to follow the logic we have until now, then D# would be a special key.
+In the phrase that that happens in bar 15 you could say that D# is used in that same stepping stone sense as C# before, but I think it's a weaker argument.
+Overall I think it's there's no real conclusion yet on why the melody in these songs sound the way they do, but it's likely something to do with the scales used, we need to look at more songs.
